@@ -1,0 +1,27 @@
+1. What is single-threaded?
+-for me single-threaded is one process. Means the one program must be finished first before you starting another one can't do multitasking.
+
+2.What is event driven architecture?
+-Event Driven Architecture where you can implement applications and systems which transmit events.
+
+3.Benefits of Javascript Module
+-When using javascript module its a little bit clean in terms of coding.You can use it easily 
+
+4.
+-
+var age = 27;
+car name = "WISHART";
+var namePet = "Swager";
+var now = new Date();
+var area = x(20,60);
+var x= computeArea;
+
+const util = require('./mymodule');
+var area = util.computeArea(10,50);
+console.log("Area is :" + area);
+var perimeter =
+util.computePerimeter(10,50);
+console.log("Perimeter is :" + perimeter);
+
+5.What is module bundler
+-it is combine javascript files and provides minimal common JS.
